@@ -10,5 +10,6 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
-hello atguigu! hello git! mastre test
-hello atguigu! hello git!
+hello atguigu! hello git! mastre tes
+hello atguigu! hello git! hot-fix test
+>>>>>>> hot-fix
